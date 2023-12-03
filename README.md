@@ -55,6 +55,8 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
+![image](https://github.com/Sanafathima95773/Muttiple-capacity-with-infinite-capacity/assets/147084627/a84822d9-571c-4617-9473-437ba9ca05e4)
+
 
 
 
